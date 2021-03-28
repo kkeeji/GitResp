@@ -10,7 +10,7 @@ class Person{
     }
 
     public String talk(String language){
-        System.out.println("中国人可以说" + language);
+        System.out.println("中国人说" + language);
         return language;
     }
 
